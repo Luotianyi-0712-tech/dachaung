@@ -22,6 +22,7 @@
 | `codes/test.py`           | 3.3-3.5节          | 计算原论文评价指标（Rank-1、mAP），对比多模态检索性能，可视化IWM权重（原论文图8、10）。 |
 
 参考完整架构文档：docs/architecture.md
+相关流程图：docs/diagrams.md
 
 ## 二、环境配置
 ### 1. 硬件要求
